@@ -29,6 +29,16 @@ Data Orchestration: Use of Data Actions to consolidate information from multiple
 
 Charts: Advanced implementation of Highcharts (OutSystems Charts).
 
+🛠️ Stack Tecnológica
+
+Plataforma: OutSystems 11 / ODC
+
+Engine de Gráficos: OutSystems Charts (Highcharts Integration)
+
+Base de Dados: SQL Server
+
+Estilização: CSS3 Customizado e OutSystems UI Framework
+
 🛠️ How to View the Files
 
 To open these files, you need to have OutSystems Service Studio installed.
